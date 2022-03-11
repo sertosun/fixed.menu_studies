@@ -1,0 +1,200 @@
+*{box-sizing: border-box;}
+
+body{font-family: Segoe UI;margin:0;}
+
+.menu
+{
+  background-color: #343434;
+  float: left;
+  width: 100%;
+  position: fixed;
+}
+
+.content
+{
+  float: left;
+  width: 100%;
+}
+
+.abstand5
+{
+  float: left;
+  width: 5%;
+  height: 1px;
+}
+.abstand20
+{
+  float: left;
+  width: 20%;
+  height: 1px;
+}
+
+.abstand30
+{
+  float: left;
+  width: 30%;
+  height: 1px;
+}
+
+.menuInhalt
+{
+  float: left;
+  width: 60%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.logoContainer
+{
+  float: left;
+  width: 50%;
+  font-size: 27px;
+  color: white;
+}
+
+.menuPunkte
+{
+  float: left;
+  width: 50%;
+  margin-top: 10px;
+  text-align: right;
+}
+
+.menuPunkte a
+{
+  color: #989898;
+  text-decoration: none;
+  padding-left: 10px;
+}
+
+.willkommensContainer
+{
+  float: left;
+  width: 100%;
+  background-color: #0470e0;
+  text-align: center;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  color: white;
+}
+
+.willkommensContainer h1
+{
+  margin: 0;
+}
+
+.uberUnsContainer
+{
+  float:left;
+  width: 100%;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.uberUnsInhalt
+{
+  float: left;
+  width: 40%;
+}
+
+.schrift20
+{
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.leistungenContainer
+{
+  float: left;
+  width: 100%;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-color: #e7e7e7;
+}
+
+.leistungenInhalt
+{
+  float: left;
+  width: 40%;
+}
+
+.cardsContainer
+{
+  float: left;
+  width: 100%;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.cardsInhalt
+{
+  float: left;
+  width: 60%;
+}
+
+.card
+{
+  float: left;
+  width: 30%;
+  border: 1px solid #ababab;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  padding: 15px;
+}
+
+.card h2
+{
+  margin: 0;
+}
+
+.cardUnten
+{
+  float: left;
+  width: 30%;
+  background-color: #ebedeb;
+  border: 1px solid #ababab;
+  border-top: none;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  padding: 15px;
+}
+
+.cardUnten input
+{
+  background-color: #058fd2;
+  outline: none;
+  border: none;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer
+{
+  float: left;
+  width: 100%;
+  background-color: #404040;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: center;
+  color: white;
+}
